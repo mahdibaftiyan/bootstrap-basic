@@ -1,0 +1,30 @@
+@font-face {
+  font-family: vazir;
+  src: url(../fonts/Vazir-Regular-FD.ttf);
+}
+
+body {
+  font-family: vazir;
+}
+
+.dropdown-item:active {
+  background-color: #212121;
+  color: white;
+}
+
+.icone-customais {
+  color: #0d6efd;
+  background-color: #ebeafb;
+  display: inline-flex;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.card-customis {
+  background-color: #1b2a4e;
+  color: white;
+}
+.footer-link {
+  text-decoration: none;
+  color: #000;
+}
